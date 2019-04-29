@@ -1,0 +1,1 @@
+.\tesseract-cli -datadir=data %*

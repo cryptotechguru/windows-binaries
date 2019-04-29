@@ -1,0 +1,1 @@
+tesseractd -datadir=data
